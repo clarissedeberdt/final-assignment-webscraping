@@ -1,11 +1,18 @@
 # Final Assignment – Webscraping
-Ce projet est réalisé dans le cadre du cours IBM "Python for Data Science Project".
+This project was completed as part of the IBM course **Python for Data Science Project**.
 
-## 📊 Objectif
-Extraire des données financières de GameStop et Tesla, les analyser et les visualiser avec Plotly.
+## 📊 Objective
+The goal is to extract financial data for GameStop and Tesla, analyze it, and visualize stock prices and revenue trends using Plotly.
 
-## 📁 Fichiers
-- `Final Assignment.ipynb` : le notebook principal
+## 📁 Files
+- `Final Assignment.ipynb`: Main notebook containing code and analysis
 
-## 👩‍💻 Réalisé par
+## 🛠️ Tools & Libraries
+- Python
+- Pandas
+- yFinance
+- Plotly
+- BeautifulSoup
+
+## 👩‍💻 Author
 Clarisse DEBERDT
